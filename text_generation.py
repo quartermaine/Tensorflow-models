@@ -7,7 +7,7 @@ import wget
 import math
 
 
-class MyFirstGUI:
+class text_GUI:
     def __init__(self, master):
         self.master = master
         self.text = None
@@ -143,5 +143,5 @@ class MyFirstGUI:
 
 
 root = Tk()
-my_gui = MyFirstGUI(root)
+my_gui = text_GUI(root)
 root.mainloop()
