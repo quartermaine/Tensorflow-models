@@ -1,7 +1,7 @@
 # Tensorflow models
 ---------------------
 
-A collection of scripts built with tensoflow framework.
+A collection of scripts built with tensorflow framework.
 
 
 * [CIFAR100_with_FLAGS.py](https://github.com/quartermaine/Tensorflow-models/blob/master/CIFAR100_with_FLAGS.py)
