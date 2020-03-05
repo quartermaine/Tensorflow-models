@@ -7,8 +7,8 @@ A collection of scripts built with tensoflow framework.
 
 A scipt to train a NN with the cifar100 dataset with arguments 
 
-```shell
-$  CIFAR10_with_FLAGS.py --epochs=int --batch_size=int --learning_rate=float --verbose=int --save_path
+```
+ CIFAR10_with_FLAGS.py --epochs=int --batch_size=int --learning_rate=float --verbose=int --save_path
 ```
 
 
@@ -17,8 +17,8 @@ $  CIFAR10_with_FLAGS.py --epochs=int --batch_size=int --learning_rate=float --v
 
 A scipt to train a NN with the cats and dogs dataset and data agmentation with arguments 
 
-```shell
-$  tensorflow_argparser.py --style --train-path --test-path --slow --epochs --batch-size --save-path --learning-rate --verbose
+```
+ tensorflow_argparser.py --style --train-path --test-path --slow --epochs --batch-size --save-path --learning-rate --verbose
 ``` 
 
 
@@ -28,7 +28,7 @@ $  tensorflow_argparser.py --style --train-path --test-path --slow --epochs --ba
 
 A scipt with a simple GUI to generate text using shakespeare [sonnets.txt](https://storage.googleapis.com/laurencemoroney-blog.appspot.com/sonnets.txt)
 
-```shell
-$  text_generation.py
+```
+ text_generation.py
 ``` 
 
