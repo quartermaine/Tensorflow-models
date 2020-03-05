@@ -19,7 +19,7 @@ $python CIFAR10_with_FLAGS.py --epochs=int --batch_size=int --learning_rate=floa
 A scipt to train a NN with the cats and dogs dataset and data augmentation with arguments 
 
 ```shell
-python tensorflow_argparser.py --style --train-path --test-path --slow --epochs --batch-size --save-path --learning-rate --verbose
+$python tensorflow_argparser.py --style --train-path --test-path --slow --epochs --batch-size --save-path --learning-rate --verbose
 ``` 
 
 
@@ -30,6 +30,6 @@ python tensorflow_argparser.py --style --train-path --test-path --slow --epochs 
 A scipt with a simple GUI to generate text using shakespeare [sonnets.txt](https://storage.googleapis.com/laurencemoroney-blog.appspot.com/sonnets.txt)
 
 ```shell
-python text_generation.py
+$python text_generation.py
 ``` 
 
