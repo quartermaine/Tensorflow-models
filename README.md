@@ -16,7 +16,7 @@ $python CIFAR10_with_FLAGS.py --epochs=int --batch_size=int --learning_rate=floa
 
 * [tensorflow_argparser.py](https://github.com/quartermaine/Tensorflow-models/blob/master/tensorflow_argparser.py)
 
-A scipt to train a NN with the cats and dogs dataset and data augmentation with arguments 
+A scipt to train a NN with the cats and dogs dataset (pre-downloaded) and data augmentation with arguments 
 
 ```shell
 $python tensorflow_argparser.py --style --train-path --test-path --slow --epochs --batch-size --save-path --learning-rate --verbose
